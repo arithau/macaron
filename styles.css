@@ -1,0 +1,105 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.logo {background-color: #ffebf4;
+
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+.gif {border-radius: 50%;
+width: 15%;
+}
+.name
+ {font-family: 'Dancing Script', cursive;
+   color: lightpink;
+   text-shadow: 2px 2px #e05e99;
+}
+.pics {
+  flex-direction: row;
+  display: inline-flex;
+  justify-content: space-between;
+}
+.red {
+   height: 200px;
+  width: 200px;
+  display: flex;
+object-fit: scale-down;
+}
+.orange{
+  height: 200px;
+  width: 200px;
+  display: flex;
+object-fit: scale-down;
+}
+.yellow {
+  height: 200px;
+  width: 200px;
+  display: flex;
+object-fit: scale-down;
+}
+.green {
+  height: 200px;
+  width: 200px;
+  display: flex;
+object-fit: scale-down;
+}
+.blue {
+  height: 200px;
+  width: 200px;
+  display: flex;
+object-fit: scale-down;
+}
+.purple{
+  height: 200px;
+  width: 200px;
+  display: flex;
+object-fit: scale-down;
+}
+.pink {
+  height: 200px;
+  width: 200px;
+  display: flex;
+object-fit: scale-down;
+}
+.brown {
+  height: 200px;
+  width: 200px;
+  display: flex;
+object-fit: scale-down;
+}
+.black{
+  height: 200px;
+  width: 200px;
+  display: flex;
+object-fit: scale-down;
+}
+.grey{
+  height: 200px;
+  width: 200px;
+  display: flex;
+object-fit: scale-down;
+}
+.white {
+  height: 200px;
+  width: 200px;
+  display: flex;
+object-fit: scale-down;
+}
+.rainbow{
+  height: 200px;
+  width: 200px;
+  display: flex;
+object-fit: scale-down;
+}
+@@media screen and (max-width: 900px) {
+  .green
+  {
+    background: #ffebf4;
+  }
+
+}
